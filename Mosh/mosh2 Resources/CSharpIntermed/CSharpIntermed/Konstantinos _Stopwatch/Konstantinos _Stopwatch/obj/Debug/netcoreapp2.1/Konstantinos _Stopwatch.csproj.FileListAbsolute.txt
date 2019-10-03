@@ -1,0 +1,11 @@
+D:\My Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\Konstantinos _Stopwatch\Konstantinos _Stopwatch\bin\Debug\netcoreapp2.1\Konstantinos _Stopwatch.deps.json
+D:\My Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\Konstantinos _Stopwatch\Konstantinos _Stopwatch\bin\Debug\netcoreapp2.1\Konstantinos _Stopwatch.runtimeconfig.json
+D:\My Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\Konstantinos _Stopwatch\Konstantinos _Stopwatch\bin\Debug\netcoreapp2.1\Konstantinos _Stopwatch.runtimeconfig.dev.json
+D:\My Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\Konstantinos _Stopwatch\Konstantinos _Stopwatch\bin\Debug\netcoreapp2.1\Konstantinos _Stopwatch.dll
+D:\My Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\Konstantinos _Stopwatch\Konstantinos _Stopwatch\bin\Debug\netcoreapp2.1\Konstantinos _Stopwatch.pdb
+D:\My Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\Konstantinos _Stopwatch\Konstantinos _Stopwatch\obj\Debug\netcoreapp2.1\Konstantinos _Stopwatch.csprojAssemblyReference.cache
+D:\My Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\Konstantinos _Stopwatch\Konstantinos _Stopwatch\obj\Debug\netcoreapp2.1\Konstantinos _Stopwatch.csproj.CoreCompileInputs.cache
+D:\My Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\Konstantinos _Stopwatch\Konstantinos _Stopwatch\obj\Debug\netcoreapp2.1\Konstantinos _Stopwatch.AssemblyInfoInputs.cache
+D:\My Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\Konstantinos _Stopwatch\Konstantinos _Stopwatch\obj\Debug\netcoreapp2.1\Konstantinos _Stopwatch.AssemblyInfo.cs
+D:\My Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\Konstantinos _Stopwatch\Konstantinos _Stopwatch\obj\Debug\netcoreapp2.1\Konstantinos _Stopwatch.dll
+D:\My Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\Konstantinos _Stopwatch\Konstantinos _Stopwatch\obj\Debug\netcoreapp2.1\Konstantinos _Stopwatch.pdb

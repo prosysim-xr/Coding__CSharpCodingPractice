@@ -1,0 +1,7 @@
+C:\Users\suman\Desktop\c#programs\Mosh1Asg4_DateTimeAndStrings\Mosh1Asg4_DateTimeAndStrings\bin\Debug\Mosh1Asg4_DateTimeAndStrings.exe.config
+C:\Users\suman\Desktop\c#programs\Mosh1Asg4_DateTimeAndStrings\Mosh1Asg4_DateTimeAndStrings\bin\Debug\Mosh1Asg4_DateTimeAndStrings.exe
+C:\Users\suman\Desktop\c#programs\Mosh1Asg4_DateTimeAndStrings\Mosh1Asg4_DateTimeAndStrings\bin\Debug\Mosh1Asg4_DateTimeAndStrings.pdb
+C:\Users\suman\Desktop\c#programs\Mosh1Asg4_DateTimeAndStrings\Mosh1Asg4_DateTimeAndStrings\obj\Debug\Mosh1Asg4_DateTimeAndStrings.csprojAssemblyReference.cache
+C:\Users\suman\Desktop\c#programs\Mosh1Asg4_DateTimeAndStrings\Mosh1Asg4_DateTimeAndStrings\obj\Debug\Mosh1Asg4_DateTimeAndStrings.csproj.CoreCompileInputs.cache
+C:\Users\suman\Desktop\c#programs\Mosh1Asg4_DateTimeAndStrings\Mosh1Asg4_DateTimeAndStrings\obj\Debug\Mosh1Asg4_DateTimeAndStrings.exe
+C:\Users\suman\Desktop\c#programs\Mosh1Asg4_DateTimeAndStrings\Mosh1Asg4_DateTimeAndStrings\obj\Debug\Mosh1Asg4_DateTimeAndStrings.pdb

@@ -1,0 +1,11 @@
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\Tom_Stack\Tom_Stack\bin\Debug\netcoreapp2.1\Tom_Stack.deps.json
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\Tom_Stack\Tom_Stack\bin\Debug\netcoreapp2.1\Tom_Stack.runtimeconfig.json
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\Tom_Stack\Tom_Stack\bin\Debug\netcoreapp2.1\Tom_Stack.runtimeconfig.dev.json
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\Tom_Stack\Tom_Stack\bin\Debug\netcoreapp2.1\Tom_Stack.dll
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\Tom_Stack\Tom_Stack\bin\Debug\netcoreapp2.1\Tom_Stack.pdb
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\Tom_Stack\Tom_Stack\obj\Debug\netcoreapp2.1\Tom_Stack.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\Tom_Stack\Tom_Stack\obj\Debug\netcoreapp2.1\Tom_Stack.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\Tom_Stack\Tom_Stack\obj\Debug\netcoreapp2.1\Tom_Stack.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\Tom_Stack\Tom_Stack\obj\Debug\netcoreapp2.1\Tom_Stack.AssemblyInfo.cs
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\Tom_Stack\Tom_Stack\obj\Debug\netcoreapp2.1\Tom_Stack.dll
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\Tom_Stack\Tom_Stack\obj\Debug\netcoreapp2.1\Tom_Stack.pdb

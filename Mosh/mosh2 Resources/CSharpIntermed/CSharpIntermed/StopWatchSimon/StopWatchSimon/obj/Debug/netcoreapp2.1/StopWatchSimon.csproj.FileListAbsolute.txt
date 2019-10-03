@@ -1,0 +1,22 @@
+/Users/harlanbrewer/Projects/StopWatchSimon/StopWatchSimon/bin/Debug/netcoreapp2.1/StopWatchSimon.deps.json
+/Users/harlanbrewer/Projects/StopWatchSimon/StopWatchSimon/bin/Debug/netcoreapp2.1/StopWatchSimon.runtimeconfig.json
+/Users/harlanbrewer/Projects/StopWatchSimon/StopWatchSimon/bin/Debug/netcoreapp2.1/StopWatchSimon.runtimeconfig.dev.json
+/Users/harlanbrewer/Projects/StopWatchSimon/StopWatchSimon/bin/Debug/netcoreapp2.1/StopWatchSimon.dll
+/Users/harlanbrewer/Projects/StopWatchSimon/StopWatchSimon/bin/Debug/netcoreapp2.1/StopWatchSimon.pdb
+/Users/harlanbrewer/Projects/StopWatchSimon/StopWatchSimon/obj/Debug/netcoreapp2.1/StopWatchSimon.csprojAssemblyReference.cache
+/Users/harlanbrewer/Projects/StopWatchSimon/StopWatchSimon/obj/Debug/netcoreapp2.1/StopWatchSimon.csproj.CoreCompileInputs.cache
+/Users/harlanbrewer/Projects/StopWatchSimon/StopWatchSimon/obj/Debug/netcoreapp2.1/StopWatchSimon.AssemblyInfoInputs.cache
+/Users/harlanbrewer/Projects/StopWatchSimon/StopWatchSimon/obj/Debug/netcoreapp2.1/StopWatchSimon.AssemblyInfo.cs
+/Users/harlanbrewer/Projects/StopWatchSimon/StopWatchSimon/obj/Debug/netcoreapp2.1/StopWatchSimon.dll
+/Users/harlanbrewer/Projects/StopWatchSimon/StopWatchSimon/obj/Debug/netcoreapp2.1/StopWatchSimon.pdb
+D:\My Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\StopWatchSimon\StopWatchSimon\bin\Debug\netcoreapp2.1\StopWatchSimon.deps.json
+D:\My Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\StopWatchSimon\StopWatchSimon\bin\Debug\netcoreapp2.1\StopWatchSimon.runtimeconfig.json
+D:\My Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\StopWatchSimon\StopWatchSimon\bin\Debug\netcoreapp2.1\StopWatchSimon.runtimeconfig.dev.json
+D:\My Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\StopWatchSimon\StopWatchSimon\bin\Debug\netcoreapp2.1\StopWatchSimon.dll
+D:\My Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\StopWatchSimon\StopWatchSimon\bin\Debug\netcoreapp2.1\StopWatchSimon.pdb
+D:\My Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\StopWatchSimon\StopWatchSimon\obj\Debug\netcoreapp2.1\StopWatchSimon.csprojAssemblyReference.cache
+D:\My Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\StopWatchSimon\StopWatchSimon\obj\Debug\netcoreapp2.1\StopWatchSimon.csproj.CoreCompileInputs.cache
+D:\My Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\StopWatchSimon\StopWatchSimon\obj\Debug\netcoreapp2.1\StopWatchSimon.AssemblyInfoInputs.cache
+D:\My Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\StopWatchSimon\StopWatchSimon\obj\Debug\netcoreapp2.1\StopWatchSimon.AssemblyInfo.cs
+D:\My Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\StopWatchSimon\StopWatchSimon\obj\Debug\netcoreapp2.1\StopWatchSimon.dll
+D:\My Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\StopWatchSimon\StopWatchSimon\obj\Debug\netcoreapp2.1\StopWatchSimon.pdb

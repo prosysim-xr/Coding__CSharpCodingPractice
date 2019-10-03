@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mosh1Asg_Debug", "Mosh1Asg_Debug\Mosh1Asg_Debug.csproj", "{AEF65AAA-8ADB-4AD8-9EA3-DE4EF0241246}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEF65AAA-8ADB-4AD8-9EA3-DE4EF0241246}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEF65AAA-8ADB-4AD8-9EA3-DE4EF0241246}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEF65AAA-8ADB-4AD8-9EA3-DE4EF0241246}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEF65AAA-8ADB-4AD8-9EA3-DE4EF0241246}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB2C0B9D-1D6B-48FE-837D-785EC0CB6BE0}
+	EndGlobalSection
+EndGlobal

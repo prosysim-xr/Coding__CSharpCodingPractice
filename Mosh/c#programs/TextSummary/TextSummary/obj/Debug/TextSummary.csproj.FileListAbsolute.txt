@@ -1,0 +1,7 @@
+C:\Users\suman\source\repos\TextSummary\TextSummary\bin\Debug\TextSummary.exe.config
+C:\Users\suman\source\repos\TextSummary\TextSummary\bin\Debug\TextSummary.exe
+C:\Users\suman\source\repos\TextSummary\TextSummary\bin\Debug\TextSummary.pdb
+C:\Users\suman\source\repos\TextSummary\TextSummary\obj\Debug\TextSummary.csprojAssemblyReference.cache
+C:\Users\suman\source\repos\TextSummary\TextSummary\obj\Debug\TextSummary.csproj.CoreCompileInputs.cache
+C:\Users\suman\source\repos\TextSummary\TextSummary\obj\Debug\TextSummary.exe
+C:\Users\suman\source\repos\TextSummary\TextSummary\obj\Debug\TextSummary.pdb

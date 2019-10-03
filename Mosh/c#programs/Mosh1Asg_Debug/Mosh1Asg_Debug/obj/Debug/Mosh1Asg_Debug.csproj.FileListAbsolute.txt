@@ -1,0 +1,7 @@
+C:\Users\suman\Desktop\c#programs\Mosh1Asg_Debug\Mosh1Asg_Debug\bin\Debug\Mosh1Asg_Debug.exe.config
+C:\Users\suman\Desktop\c#programs\Mosh1Asg_Debug\Mosh1Asg_Debug\bin\Debug\Mosh1Asg_Debug.exe
+C:\Users\suman\Desktop\c#programs\Mosh1Asg_Debug\Mosh1Asg_Debug\bin\Debug\Mosh1Asg_Debug.pdb
+C:\Users\suman\Desktop\c#programs\Mosh1Asg_Debug\Mosh1Asg_Debug\obj\Debug\Mosh1Asg_Debug.csprojAssemblyReference.cache
+C:\Users\suman\Desktop\c#programs\Mosh1Asg_Debug\Mosh1Asg_Debug\obj\Debug\Mosh1Asg_Debug.csproj.CoreCompileInputs.cache
+C:\Users\suman\Desktop\c#programs\Mosh1Asg_Debug\Mosh1Asg_Debug\obj\Debug\Mosh1Asg_Debug.exe
+C:\Users\suman\Desktop\c#programs\Mosh1Asg_Debug\Mosh1Asg_Debug\obj\Debug\Mosh1Asg_Debug.pdb

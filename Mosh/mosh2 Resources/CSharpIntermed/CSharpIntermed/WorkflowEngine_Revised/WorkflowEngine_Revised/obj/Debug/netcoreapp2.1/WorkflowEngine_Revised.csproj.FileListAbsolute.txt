@@ -1,0 +1,22 @@
+D:\My Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\WorkflowEngine_Revised\WorkflowEngine_Revised\bin\Debug\netcoreapp2.1\WorkflowEngine_Revised.deps.json
+D:\My Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\WorkflowEngine_Revised\WorkflowEngine_Revised\bin\Debug\netcoreapp2.1\WorkflowEngine_Revised.runtimeconfig.json
+D:\My Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\WorkflowEngine_Revised\WorkflowEngine_Revised\bin\Debug\netcoreapp2.1\WorkflowEngine_Revised.runtimeconfig.dev.json
+D:\My Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\WorkflowEngine_Revised\WorkflowEngine_Revised\bin\Debug\netcoreapp2.1\WorkflowEngine_Revised.dll
+D:\My Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\WorkflowEngine_Revised\WorkflowEngine_Revised\bin\Debug\netcoreapp2.1\WorkflowEngine_Revised.pdb
+D:\My Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\WorkflowEngine_Revised\WorkflowEngine_Revised\obj\Debug\netcoreapp2.1\WorkflowEngine_Revised.csprojAssemblyReference.cache
+D:\My Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\WorkflowEngine_Revised\WorkflowEngine_Revised\obj\Debug\netcoreapp2.1\WorkflowEngine_Revised.csproj.CoreCompileInputs.cache
+D:\My Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\WorkflowEngine_Revised\WorkflowEngine_Revised\obj\Debug\netcoreapp2.1\WorkflowEngine_Revised.AssemblyInfoInputs.cache
+D:\My Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\WorkflowEngine_Revised\WorkflowEngine_Revised\obj\Debug\netcoreapp2.1\WorkflowEngine_Revised.AssemblyInfo.cs
+D:\My Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\WorkflowEngine_Revised\WorkflowEngine_Revised\obj\Debug\netcoreapp2.1\WorkflowEngine_Revised.dll
+D:\My Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\WorkflowEngine_Revised\WorkflowEngine_Revised\obj\Debug\netcoreapp2.1\WorkflowEngine_Revised.pdb
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\WorkflowEngine_Revised\WorkflowEngine_Revised\bin\Debug\netcoreapp2.1\WorkflowEngine_Revised.deps.json
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\WorkflowEngine_Revised\WorkflowEngine_Revised\bin\Debug\netcoreapp2.1\WorkflowEngine_Revised.runtimeconfig.json
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\WorkflowEngine_Revised\WorkflowEngine_Revised\bin\Debug\netcoreapp2.1\WorkflowEngine_Revised.runtimeconfig.dev.json
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\WorkflowEngine_Revised\WorkflowEngine_Revised\bin\Debug\netcoreapp2.1\WorkflowEngine_Revised.dll
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\WorkflowEngine_Revised\WorkflowEngine_Revised\bin\Debug\netcoreapp2.1\WorkflowEngine_Revised.pdb
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\WorkflowEngine_Revised\WorkflowEngine_Revised\obj\Debug\netcoreapp2.1\WorkflowEngine_Revised.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\WorkflowEngine_Revised\WorkflowEngine_Revised\obj\Debug\netcoreapp2.1\WorkflowEngine_Revised.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\WorkflowEngine_Revised\WorkflowEngine_Revised\obj\Debug\netcoreapp2.1\WorkflowEngine_Revised.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\WorkflowEngine_Revised\WorkflowEngine_Revised\obj\Debug\netcoreapp2.1\WorkflowEngine_Revised.AssemblyInfo.cs
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\WorkflowEngine_Revised\WorkflowEngine_Revised\obj\Debug\netcoreapp2.1\WorkflowEngine_Revised.dll
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\WorkflowEngine_Revised\WorkflowEngine_Revised\obj\Debug\netcoreapp2.1\WorkflowEngine_Revised.pdb

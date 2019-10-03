@@ -1,0 +1,11 @@
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\Michael_StackOverflow\Michael_StackOverflow\bin\Debug\netcoreapp2.1\Michael_StackOverflow.deps.json
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\Michael_StackOverflow\Michael_StackOverflow\bin\Debug\netcoreapp2.1\Michael_StackOverflow.runtimeconfig.json
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\Michael_StackOverflow\Michael_StackOverflow\bin\Debug\netcoreapp2.1\Michael_StackOverflow.runtimeconfig.dev.json
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\Michael_StackOverflow\Michael_StackOverflow\bin\Debug\netcoreapp2.1\Michael_StackOverflow.dll
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\Michael_StackOverflow\Michael_StackOverflow\bin\Debug\netcoreapp2.1\Michael_StackOverflow.pdb
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\Michael_StackOverflow\Michael_StackOverflow\obj\Debug\netcoreapp2.1\Michael_StackOverflow.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\Michael_StackOverflow\Michael_StackOverflow\obj\Debug\netcoreapp2.1\Michael_StackOverflow.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\Michael_StackOverflow\Michael_StackOverflow\obj\Debug\netcoreapp2.1\Michael_StackOverflow.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\Michael_StackOverflow\Michael_StackOverflow\obj\Debug\netcoreapp2.1\Michael_StackOverflow.AssemblyInfo.cs
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\Michael_StackOverflow\Michael_StackOverflow\obj\Debug\netcoreapp2.1\Michael_StackOverflow.dll
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\Michael_StackOverflow\Michael_StackOverflow\obj\Debug\netcoreapp2.1\Michael_StackOverflow.pdb

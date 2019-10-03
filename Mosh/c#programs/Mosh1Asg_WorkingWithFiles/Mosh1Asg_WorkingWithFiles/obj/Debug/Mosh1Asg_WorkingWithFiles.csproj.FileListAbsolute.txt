@@ -1,0 +1,7 @@
+C:\Users\suman\Desktop\c#programs\Mosh1Asg_WorkingWithFiles\Mosh1Asg_WorkingWithFiles\bin\Debug\Mosh1Asg_WorkingWithFiles.exe.config
+C:\Users\suman\Desktop\c#programs\Mosh1Asg_WorkingWithFiles\Mosh1Asg_WorkingWithFiles\bin\Debug\Mosh1Asg_WorkingWithFiles.exe
+C:\Users\suman\Desktop\c#programs\Mosh1Asg_WorkingWithFiles\Mosh1Asg_WorkingWithFiles\bin\Debug\Mosh1Asg_WorkingWithFiles.pdb
+C:\Users\suman\Desktop\c#programs\Mosh1Asg_WorkingWithFiles\Mosh1Asg_WorkingWithFiles\obj\Debug\Mosh1Asg_WorkingWithFiles.csprojAssemblyReference.cache
+C:\Users\suman\Desktop\c#programs\Mosh1Asg_WorkingWithFiles\Mosh1Asg_WorkingWithFiles\obj\Debug\Mosh1Asg_WorkingWithFiles.csproj.CoreCompileInputs.cache
+C:\Users\suman\Desktop\c#programs\Mosh1Asg_WorkingWithFiles\Mosh1Asg_WorkingWithFiles\obj\Debug\Mosh1Asg_WorkingWithFiles.exe
+C:\Users\suman\Desktop\c#programs\Mosh1Asg_WorkingWithFiles\Mosh1Asg_WorkingWithFiles\obj\Debug\Mosh1Asg_WorkingWithFiles.pdb

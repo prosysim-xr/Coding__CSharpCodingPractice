@@ -1,0 +1,7 @@
+C:\Users\suman\Desktop\c#programs\Mosh1Asg2_Loops_Factorials\Mosh1Asg2_Loops_Factorials\bin\Debug\Mosh1Asg2_Loops_Factorials.exe.config
+C:\Users\suman\Desktop\c#programs\Mosh1Asg2_Loops_Factorials\Mosh1Asg2_Loops_Factorials\bin\Debug\Mosh1Asg2_Loops_Factorials.exe
+C:\Users\suman\Desktop\c#programs\Mosh1Asg2_Loops_Factorials\Mosh1Asg2_Loops_Factorials\bin\Debug\Mosh1Asg2_Loops_Factorials.pdb
+C:\Users\suman\Desktop\c#programs\Mosh1Asg2_Loops_Factorials\Mosh1Asg2_Loops_Factorials\obj\Debug\Mosh1Asg2_Loops_Factorials.csprojAssemblyReference.cache
+C:\Users\suman\Desktop\c#programs\Mosh1Asg2_Loops_Factorials\Mosh1Asg2_Loops_Factorials\obj\Debug\Mosh1Asg2_Loops_Factorials.csproj.CoreCompileInputs.cache
+C:\Users\suman\Desktop\c#programs\Mosh1Asg2_Loops_Factorials\Mosh1Asg2_Loops_Factorials\obj\Debug\Mosh1Asg2_Loops_Factorials.exe
+C:\Users\suman\Desktop\c#programs\Mosh1Asg2_Loops_Factorials\Mosh1Asg2_Loops_Factorials\obj\Debug\Mosh1Asg2_Loops_Factorials.pdb

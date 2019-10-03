@@ -1,0 +1,7 @@
+C:\Users\suman\Desktop\Mosh\c#programs\Mosh2_Demo_PersonClass_Properties\Mosh2Asg_DBConnection\bin\Debug\Mosh2Asg_DBConnection.exe.config
+C:\Users\suman\Desktop\Mosh\c#programs\Mosh2_Demo_PersonClass_Properties\Mosh2Asg_DBConnection\bin\Debug\Mosh2Asg_DBConnection.exe
+C:\Users\suman\Desktop\Mosh\c#programs\Mosh2_Demo_PersonClass_Properties\Mosh2Asg_DBConnection\bin\Debug\Mosh2Asg_DBConnection.pdb
+C:\Users\suman\Desktop\Mosh\c#programs\Mosh2_Demo_PersonClass_Properties\Mosh2Asg_DBConnection\obj\Debug\Mosh2Asg_DBConnection.csproj.CoreCompileInputs.cache
+C:\Users\suman\Desktop\Mosh\c#programs\Mosh2_Demo_PersonClass_Properties\Mosh2Asg_DBConnection\obj\Debug\Mosh2Asg_DBConnection.exe
+C:\Users\suman\Desktop\Mosh\c#programs\Mosh2_Demo_PersonClass_Properties\Mosh2Asg_DBConnection\obj\Debug\Mosh2Asg_DBConnection.pdb
+C:\Users\suman\Desktop\Mosh\c#programs\Mosh2_Demo_PersonClass_Properties\Mosh2Asg_DBConnection\obj\Debug\Mosh2Asg_DBConnection.csprojAssemblyReference.cache

@@ -1,0 +1,22 @@
+D:\My Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\StackOverflow\StackOverflow\bin\Debug\netcoreapp2.1\StackOverflow.deps.json
+D:\My Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\StackOverflow\StackOverflow\bin\Debug\netcoreapp2.1\StackOverflow.runtimeconfig.json
+D:\My Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\StackOverflow\StackOverflow\bin\Debug\netcoreapp2.1\StackOverflow.runtimeconfig.dev.json
+D:\My Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\StackOverflow\StackOverflow\bin\Debug\netcoreapp2.1\StackOverflow.dll
+D:\My Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\StackOverflow\StackOverflow\bin\Debug\netcoreapp2.1\StackOverflow.pdb
+D:\My Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\StackOverflow\StackOverflow\obj\Debug\netcoreapp2.1\StackOverflow.csprojAssemblyReference.cache
+D:\My Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\StackOverflow\StackOverflow\obj\Debug\netcoreapp2.1\StackOverflow.csproj.CoreCompileInputs.cache
+D:\My Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\StackOverflow\StackOverflow\obj\Debug\netcoreapp2.1\StackOverflow.AssemblyInfoInputs.cache
+D:\My Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\StackOverflow\StackOverflow\obj\Debug\netcoreapp2.1\StackOverflow.AssemblyInfo.cs
+D:\My Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\StackOverflow\StackOverflow\obj\Debug\netcoreapp2.1\StackOverflow.dll
+D:\My Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\StackOverflow\StackOverflow\obj\Debug\netcoreapp2.1\StackOverflow.pdb
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\StackOverflow\StackOverflow\bin\Debug\netcoreapp2.1\StackOverflow.deps.json
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\StackOverflow\StackOverflow\bin\Debug\netcoreapp2.1\StackOverflow.runtimeconfig.json
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\StackOverflow\StackOverflow\bin\Debug\netcoreapp2.1\StackOverflow.runtimeconfig.dev.json
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\StackOverflow\StackOverflow\bin\Debug\netcoreapp2.1\StackOverflow.dll
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\StackOverflow\StackOverflow\bin\Debug\netcoreapp2.1\StackOverflow.pdb
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\StackOverflow\StackOverflow\obj\Debug\netcoreapp2.1\StackOverflow.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\StackOverflow\StackOverflow\obj\Debug\netcoreapp2.1\StackOverflow.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\StackOverflow\StackOverflow\obj\Debug\netcoreapp2.1\StackOverflow.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\StackOverflow\StackOverflow\obj\Debug\netcoreapp2.1\StackOverflow.AssemblyInfo.cs
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\StackOverflow\StackOverflow\obj\Debug\netcoreapp2.1\StackOverflow.dll
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\StackOverflow\StackOverflow\obj\Debug\netcoreapp2.1\StackOverflow.pdb

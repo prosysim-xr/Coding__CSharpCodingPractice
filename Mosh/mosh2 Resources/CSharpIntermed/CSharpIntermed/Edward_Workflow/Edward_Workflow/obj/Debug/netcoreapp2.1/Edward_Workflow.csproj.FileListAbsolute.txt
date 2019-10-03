@@ -1,0 +1,11 @@
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\Edward_Workflow\Edward_Workflow\bin\Debug\netcoreapp2.1\Edward_Workflow.deps.json
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\Edward_Workflow\Edward_Workflow\bin\Debug\netcoreapp2.1\Edward_Workflow.runtimeconfig.json
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\Edward_Workflow\Edward_Workflow\bin\Debug\netcoreapp2.1\Edward_Workflow.runtimeconfig.dev.json
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\Edward_Workflow\Edward_Workflow\bin\Debug\netcoreapp2.1\Edward_Workflow.dll
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\Edward_Workflow\Edward_Workflow\bin\Debug\netcoreapp2.1\Edward_Workflow.pdb
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\Edward_Workflow\Edward_Workflow\obj\Debug\netcoreapp2.1\Edward_Workflow.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\Edward_Workflow\Edward_Workflow\obj\Debug\netcoreapp2.1\Edward_Workflow.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\Edward_Workflow\Edward_Workflow\obj\Debug\netcoreapp2.1\Edward_Workflow.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\Edward_Workflow\Edward_Workflow\obj\Debug\netcoreapp2.1\Edward_Workflow.AssemblyInfo.cs
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\Edward_Workflow\Edward_Workflow\obj\Debug\netcoreapp2.1\Edward_Workflow.dll
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\Edward_Workflow\Edward_Workflow\obj\Debug\netcoreapp2.1\Edward_Workflow.pdb

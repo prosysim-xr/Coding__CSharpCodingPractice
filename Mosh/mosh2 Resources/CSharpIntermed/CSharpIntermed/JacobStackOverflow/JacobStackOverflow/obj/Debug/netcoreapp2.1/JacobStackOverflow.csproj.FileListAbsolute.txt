@@ -1,0 +1,22 @@
+D:\My Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\JacobStackOverflow\JacobStackOverflow\obj\Debug\netcoreapp2.1\JacobStackOverflow.csprojAssemblyReference.cache
+D:\My Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\JacobStackOverflow\JacobStackOverflow\obj\Debug\netcoreapp2.1\JacobStackOverflow.csproj.CoreCompileInputs.cache
+D:\My Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\JacobStackOverflow\JacobStackOverflow\obj\Debug\netcoreapp2.1\JacobStackOverflow.AssemblyInfoInputs.cache
+D:\My Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\JacobStackOverflow\JacobStackOverflow\obj\Debug\netcoreapp2.1\JacobStackOverflow.AssemblyInfo.cs
+D:\My Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\JacobStackOverflow\JacobStackOverflow\bin\Debug\netcoreapp2.1\JacobStackOverflow.deps.json
+D:\My Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\JacobStackOverflow\JacobStackOverflow\bin\Debug\netcoreapp2.1\JacobStackOverflow.runtimeconfig.json
+D:\My Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\JacobStackOverflow\JacobStackOverflow\bin\Debug\netcoreapp2.1\JacobStackOverflow.runtimeconfig.dev.json
+D:\My Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\JacobStackOverflow\JacobStackOverflow\bin\Debug\netcoreapp2.1\JacobStackOverflow.dll
+D:\My Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\JacobStackOverflow\JacobStackOverflow\bin\Debug\netcoreapp2.1\JacobStackOverflow.pdb
+D:\My Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\JacobStackOverflow\JacobStackOverflow\obj\Debug\netcoreapp2.1\JacobStackOverflow.dll
+D:\My Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\JacobStackOverflow\JacobStackOverflow\obj\Debug\netcoreapp2.1\JacobStackOverflow.pdb
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\JacobStackOverflow\JacobStackOverflow\bin\Debug\netcoreapp2.1\JacobStackOverflow.deps.json
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\JacobStackOverflow\JacobStackOverflow\bin\Debug\netcoreapp2.1\JacobStackOverflow.runtimeconfig.json
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\JacobStackOverflow\JacobStackOverflow\bin\Debug\netcoreapp2.1\JacobStackOverflow.runtimeconfig.dev.json
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\JacobStackOverflow\JacobStackOverflow\bin\Debug\netcoreapp2.1\JacobStackOverflow.dll
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\JacobStackOverflow\JacobStackOverflow\bin\Debug\netcoreapp2.1\JacobStackOverflow.pdb
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\JacobStackOverflow\JacobStackOverflow\obj\Debug\netcoreapp2.1\JacobStackOverflow.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\JacobStackOverflow\JacobStackOverflow\obj\Debug\netcoreapp2.1\JacobStackOverflow.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\JacobStackOverflow\JacobStackOverflow\obj\Debug\netcoreapp2.1\JacobStackOverflow.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\JacobStackOverflow\JacobStackOverflow\obj\Debug\netcoreapp2.1\JacobStackOverflow.AssemblyInfo.cs
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\JacobStackOverflow\JacobStackOverflow\obj\Debug\netcoreapp2.1\JacobStackOverflow.dll
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\JacobStackOverflow\JacobStackOverflow\obj\Debug\netcoreapp2.1\JacobStackOverflow.pdb

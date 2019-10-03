@@ -1,0 +1,7 @@
+C:\Users\suman\Desktop\Mosh\c#programs\Mosh2_Demo_PersonClass_Properties\Mosh2_Interface_Demo\obj\Debug\Mosh2_InterfaceAndTestability_Demo.csprojAssemblyReference.cache
+C:\Users\suman\Desktop\Mosh\c#programs\Mosh2_Demo_PersonClass_Properties\Mosh2_Interface_Demo\obj\Debug\Mosh2_InterfaceAndTestability_Demo.csproj.CoreCompileInputs.cache
+C:\Users\suman\Desktop\Mosh\c#programs\Mosh2_Demo_PersonClass_Properties\Mosh2_Interface_Demo\bin\Debug\Mosh2_Interface_Demo.exe.config
+C:\Users\suman\Desktop\Mosh\c#programs\Mosh2_Demo_PersonClass_Properties\Mosh2_Interface_Demo\bin\Debug\Mosh2_Interface_Demo.exe
+C:\Users\suman\Desktop\Mosh\c#programs\Mosh2_Demo_PersonClass_Properties\Mosh2_Interface_Demo\bin\Debug\Mosh2_Interface_Demo.pdb
+C:\Users\suman\Desktop\Mosh\c#programs\Mosh2_Demo_PersonClass_Properties\Mosh2_Interface_Demo\obj\Debug\Mosh2_Interface_Demo.exe
+C:\Users\suman\Desktop\Mosh\c#programs\Mosh2_Demo_PersonClass_Properties\Mosh2_Interface_Demo\obj\Debug\Mosh2_Interface_Demo.pdb

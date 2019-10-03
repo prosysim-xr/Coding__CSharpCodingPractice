@@ -1,0 +1,7 @@
+C:\Users\suman\Desktop\Mosh\c#programs\Mosh2_Demo_PersonClass_Properties\Mosh2Asg_upcasting_inheritence\bin\Debug\Mosh2Asg_upcasting_inheritence.exe.config
+C:\Users\suman\Desktop\Mosh\c#programs\Mosh2_Demo_PersonClass_Properties\Mosh2Asg_upcasting_inheritence\bin\Debug\Mosh2Asg_upcasting_inheritence.exe
+C:\Users\suman\Desktop\Mosh\c#programs\Mosh2_Demo_PersonClass_Properties\Mosh2Asg_upcasting_inheritence\bin\Debug\Mosh2Asg_upcasting_inheritence.pdb
+C:\Users\suman\Desktop\Mosh\c#programs\Mosh2_Demo_PersonClass_Properties\Mosh2Asg_upcasting_inheritence\obj\Debug\Mosh2Asg_upcasting_inheritence_Stack.csprojAssemblyReference.cache
+C:\Users\suman\Desktop\Mosh\c#programs\Mosh2_Demo_PersonClass_Properties\Mosh2Asg_upcasting_inheritence\obj\Debug\Mosh2Asg_upcasting_inheritence_Stack.csproj.CoreCompileInputs.cache
+C:\Users\suman\Desktop\Mosh\c#programs\Mosh2_Demo_PersonClass_Properties\Mosh2Asg_upcasting_inheritence\obj\Debug\Mosh2Asg_upcasting_inheritence.exe
+C:\Users\suman\Desktop\Mosh\c#programs\Mosh2_Demo_PersonClass_Properties\Mosh2Asg_upcasting_inheritence\obj\Debug\Mosh2Asg_upcasting_inheritence.pdb

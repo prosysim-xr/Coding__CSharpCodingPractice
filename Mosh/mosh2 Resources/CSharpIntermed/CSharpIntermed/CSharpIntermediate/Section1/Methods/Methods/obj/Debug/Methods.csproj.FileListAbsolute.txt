@@ -1,0 +1,13 @@
+C:\Projects\CSharpIntermediate\Methods\Methods\bin\Debug\Methods.exe.config
+C:\Projects\CSharpIntermediate\Methods\Methods\bin\Debug\Methods.exe
+C:\Projects\CSharpIntermediate\Methods\Methods\bin\Debug\Methods.pdb
+C:\Projects\CSharpIntermediate\Methods\Methods\obj\Debug\Methods.csprojResolveAssemblyReference.cache
+C:\Projects\CSharpIntermediate\Methods\Methods\obj\Debug\Methods.exe
+C:\Projects\CSharpIntermediate\Methods\Methods\obj\Debug\Methods.pdb
+D:\My Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\CSharpIntermediate\Section1\Methods\Methods\bin\Debug\Methods.exe.config
+D:\My Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\CSharpIntermediate\Section1\Methods\Methods\bin\Debug\Methods.exe
+D:\My Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\CSharpIntermediate\Section1\Methods\Methods\bin\Debug\Methods.pdb
+D:\My Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\CSharpIntermediate\Section1\Methods\Methods\obj\Debug\Methods.csprojAssemblyReference.cache
+D:\My Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\CSharpIntermediate\Section1\Methods\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+D:\My Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\CSharpIntermediate\Section1\Methods\Methods\obj\Debug\Methods.exe
+D:\My Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\CSharpIntermediate\Section1\Methods\Methods\obj\Debug\Methods.pdb

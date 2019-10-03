@@ -1,0 +1,11 @@
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\Marco_StackOverFlow\Marco_StackOverFlow\bin\Debug\netcoreapp2.1\Marco_StackOverFlow.deps.json
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\Marco_StackOverFlow\Marco_StackOverFlow\bin\Debug\netcoreapp2.1\Marco_StackOverFlow.runtimeconfig.json
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\Marco_StackOverFlow\Marco_StackOverFlow\bin\Debug\netcoreapp2.1\Marco_StackOverFlow.runtimeconfig.dev.json
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\Marco_StackOverFlow\Marco_StackOverFlow\bin\Debug\netcoreapp2.1\Marco_StackOverFlow.dll
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\Marco_StackOverFlow\Marco_StackOverFlow\bin\Debug\netcoreapp2.1\Marco_StackOverFlow.pdb
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\Marco_StackOverFlow\Marco_StackOverFlow\obj\Debug\netcoreapp2.1\Marco_StackOverFlow.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\Marco_StackOverFlow\Marco_StackOverFlow\obj\Debug\netcoreapp2.1\Marco_StackOverFlow.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\Marco_StackOverFlow\Marco_StackOverFlow\obj\Debug\netcoreapp2.1\Marco_StackOverFlow.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\Marco_StackOverFlow\Marco_StackOverFlow\obj\Debug\netcoreapp2.1\Marco_StackOverFlow.AssemblyInfo.cs
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\Marco_StackOverFlow\Marco_StackOverFlow\obj\Debug\netcoreapp2.1\Marco_StackOverFlow.dll
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\Marco_StackOverFlow\Marco_StackOverFlow\obj\Debug\netcoreapp2.1\Marco_StackOverFlow.pdb

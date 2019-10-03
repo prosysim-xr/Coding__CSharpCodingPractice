@@ -1,0 +1,10 @@
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\Dalibor_StackOverflow\Dalibor_StackOverflow\bin\Debug\netcoreapp2.1\Dalibor_StopWatch.deps.json
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\Dalibor_StackOverflow\Dalibor_StackOverflow\bin\Debug\netcoreapp2.1\Dalibor_StopWatch.runtimeconfig.json
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\Dalibor_StackOverflow\Dalibor_StackOverflow\bin\Debug\netcoreapp2.1\Dalibor_StopWatch.runtimeconfig.dev.json
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\Dalibor_StackOverflow\Dalibor_StackOverflow\bin\Debug\netcoreapp2.1\Dalibor_StopWatch.dll
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\Dalibor_StackOverflow\Dalibor_StackOverflow\bin\Debug\netcoreapp2.1\Dalibor_StopWatch.pdb
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\Dalibor_StackOverflow\Dalibor_StackOverflow\obj\Debug\netcoreapp2.1\Dalibor_StopWatch.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\Dalibor_StackOverflow\Dalibor_StackOverflow\obj\Debug\netcoreapp2.1\Dalibor_StopWatch.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\Dalibor_StackOverflow\Dalibor_StackOverflow\obj\Debug\netcoreapp2.1\Dalibor_StopWatch.AssemblyInfo.cs
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\Dalibor_StackOverflow\Dalibor_StackOverflow\obj\Debug\netcoreapp2.1\Dalibor_StopWatch.dll
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\Dalibor_StackOverflow\Dalibor_StackOverflow\obj\Debug\netcoreapp2.1\Dalibor_StopWatch.pdb

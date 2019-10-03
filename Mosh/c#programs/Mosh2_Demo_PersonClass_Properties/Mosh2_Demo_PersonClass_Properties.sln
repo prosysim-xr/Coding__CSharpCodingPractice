@@ -1,0 +1,73 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mosh2_Demo_ShapeClass_Upcasting", "Mosh2_Demo_ShapeClass_Upcasting\Mosh2_Demo_ShapeClass_Upcasting.csproj", "{0CCEE957-730D-4194-BB2D-3113D71EC164}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mosh2Asg_upcasting_inheritence_Stack", "Mosh2Asg_upcasting_inheritence\Mosh2Asg_upcasting_inheritence_Stack.csproj", "{7FC3FE79-DD6A-45BD-A1D1-9465F7B5304F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mosh2_Demo_PersonClass_Properties", "Mosh2_Demo_PersonClass_Properties\Mosh2_Demo_PersonClass_Properties.csproj", "{63403D67-B5D7-456F-BE12-529FDFA2E0AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mosh2Asg_DBConnection", "Mosh2Asg_DBConnection\Mosh2Asg_DBConnection.csproj", "{4531EEB0-A936-4558-BBBE-44F6FFE02059}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mosh2_InterfaceAndTestability_Demo", "Mosh2_Interface_Demo\Mosh2_InterfaceAndTestability_Demo.csproj", "{1FD9981A-486A-42C8-8134-0EA1A1EA0B00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mosh2_InterfaceAndTestability_Demo_correct", "Mosh2_InterfaceAndTestability_Demo_correct\Mosh2_InterfaceAndTestability_Demo_correct.csproj", "{121C6CFB-2CC8-4DDA-88BE-F6EC02E6158A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mosh2_InterfaceAndTestability_Demo_correct.UnitTest", "Mosh2_InterfaceAndTestability_Demo_correct.UnitTest\Mosh2_InterfaceAndTestability_Demo_correct.UnitTest.csproj", "{D778F6DC-0D6B-4F5E-A79D-4F850C57F4CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mosh2_InterfaceAndExtensibility_demo", "Mosh2_InterfaceAndExtensibility_demo\Mosh2_InterfaceAndExtensibility_demo.csproj", "{1E9FA09F-DAD2-4F54-A658-533C3106ED79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mosh2_Asg_workflowEngine", "Mosh2_Asg_workflowEngine\Mosh2_Asg_workflowEngine.csproj", "{211F4E2D-A859-492C-A5B0-6544E3070AFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CCEE957-730D-4194-BB2D-3113D71EC164}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CCEE957-730D-4194-BB2D-3113D71EC164}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CCEE957-730D-4194-BB2D-3113D71EC164}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CCEE957-730D-4194-BB2D-3113D71EC164}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FC3FE79-DD6A-45BD-A1D1-9465F7B5304F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FC3FE79-DD6A-45BD-A1D1-9465F7B5304F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FC3FE79-DD6A-45BD-A1D1-9465F7B5304F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FC3FE79-DD6A-45BD-A1D1-9465F7B5304F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63403D67-B5D7-456F-BE12-529FDFA2E0AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63403D67-B5D7-456F-BE12-529FDFA2E0AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63403D67-B5D7-456F-BE12-529FDFA2E0AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63403D67-B5D7-456F-BE12-529FDFA2E0AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4531EEB0-A936-4558-BBBE-44F6FFE02059}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4531EEB0-A936-4558-BBBE-44F6FFE02059}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4531EEB0-A936-4558-BBBE-44F6FFE02059}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4531EEB0-A936-4558-BBBE-44F6FFE02059}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FD9981A-486A-42C8-8134-0EA1A1EA0B00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FD9981A-486A-42C8-8134-0EA1A1EA0B00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FD9981A-486A-42C8-8134-0EA1A1EA0B00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FD9981A-486A-42C8-8134-0EA1A1EA0B00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{121C6CFB-2CC8-4DDA-88BE-F6EC02E6158A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{121C6CFB-2CC8-4DDA-88BE-F6EC02E6158A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{121C6CFB-2CC8-4DDA-88BE-F6EC02E6158A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{121C6CFB-2CC8-4DDA-88BE-F6EC02E6158A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D778F6DC-0D6B-4F5E-A79D-4F850C57F4CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D778F6DC-0D6B-4F5E-A79D-4F850C57F4CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D778F6DC-0D6B-4F5E-A79D-4F850C57F4CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D778F6DC-0D6B-4F5E-A79D-4F850C57F4CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E9FA09F-DAD2-4F54-A658-533C3106ED79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E9FA09F-DAD2-4F54-A658-533C3106ED79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E9FA09F-DAD2-4F54-A658-533C3106ED79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E9FA09F-DAD2-4F54-A658-533C3106ED79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{211F4E2D-A859-492C-A5B0-6544E3070AFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{211F4E2D-A859-492C-A5B0-6544E3070AFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{211F4E2D-A859-492C-A5B0-6544E3070AFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{211F4E2D-A859-492C-A5B0-6544E3070AFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C780FD3A-8052-4638-B608-0A3AA1F7FF49}
+	EndGlobalSection
+EndGlobal

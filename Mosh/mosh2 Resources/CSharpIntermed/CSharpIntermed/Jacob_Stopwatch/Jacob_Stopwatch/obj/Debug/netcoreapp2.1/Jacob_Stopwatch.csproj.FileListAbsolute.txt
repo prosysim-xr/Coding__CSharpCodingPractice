@@ -1,0 +1,11 @@
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\Jacob_Stopwatch\Jacob_Stopwatch\bin\Debug\netcoreapp2.1\Jacob_Stopwatch.deps.json
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\Jacob_Stopwatch\Jacob_Stopwatch\bin\Debug\netcoreapp2.1\Jacob_Stopwatch.runtimeconfig.json
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\Jacob_Stopwatch\Jacob_Stopwatch\bin\Debug\netcoreapp2.1\Jacob_Stopwatch.runtimeconfig.dev.json
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\Jacob_Stopwatch\Jacob_Stopwatch\bin\Debug\netcoreapp2.1\Jacob_Stopwatch.dll
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\Jacob_Stopwatch\Jacob_Stopwatch\bin\Debug\netcoreapp2.1\Jacob_Stopwatch.pdb
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\Jacob_Stopwatch\Jacob_Stopwatch\obj\Debug\netcoreapp2.1\Jacob_Stopwatch.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\Jacob_Stopwatch\Jacob_Stopwatch\obj\Debug\netcoreapp2.1\Jacob_Stopwatch.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\Jacob_Stopwatch\Jacob_Stopwatch\obj\Debug\netcoreapp2.1\Jacob_Stopwatch.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\Jacob_Stopwatch\Jacob_Stopwatch\obj\Debug\netcoreapp2.1\Jacob_Stopwatch.AssemblyInfo.cs
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\Jacob_Stopwatch\Jacob_Stopwatch\obj\Debug\netcoreapp2.1\Jacob_Stopwatch.dll
+D:\Documents\Visual Studio 2017\Projects\Udemy\CSharpIntermed\Jacob_Stopwatch\Jacob_Stopwatch\obj\Debug\netcoreapp2.1\Jacob_Stopwatch.pdb
